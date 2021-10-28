@@ -3,10 +3,11 @@ backend:
   repo: champozo/teste
   base_url: https://teste-virid-alpha.vercel.app
   auth_endpoint: api/auth/
-  branch: main
+  branch: upcoming
   # name: test-repo
 media_folder: "public/img/drops"
 public_folder: "/img/drops"
+publish_mode: editorial_workflow
 collections:
   - name: "drop"
     label: "Upcoming Drops"
