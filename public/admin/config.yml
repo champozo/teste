@@ -1,5 +1,5 @@
 backend:
-  name: git-gateway
+  name: [github | gitlab]
   branch: main
   repo: yuribmontez/solaland-test
   base_url: https://solaland-test.vercel.app
