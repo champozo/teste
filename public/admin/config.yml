@@ -13,6 +13,7 @@ collections:
     folder: "content"
     create: true
     slug: "{{slug}}"
+    format: "json"
     fields:
       - { label: "Name", name: 'name', widget: 'string' }
       - { label: 'Description', name: 'description', widget: 'text' }
