@@ -18,7 +18,7 @@ collections:
       - { label: 'Description', name: 'description', widget: 'text' }
       - { label: 'Twitter URL', name: 'twitter', widget: 'string' }
       - { label: 'Discord URL', name: 'discord', widget: 'string' }
-      # - { label: 'Image', name: 'image', widget: 'image', allow_multiple: false }
+      - { label: 'Image', name: 'image', widget: 'image', allow_multiple: false }
       - { label: 'Mint Website', name: 'website', widget: 'string'  }
       - { label: 'Mint date', name: 'date', widget: 'datetime', format: "MM-DD", dateFormat: "MM-DD", timeFormat: false }
       - { label: 'Mint price', name: 'price', widget: 'number', value_type: 'float' }
