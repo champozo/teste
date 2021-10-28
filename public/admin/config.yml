@@ -3,10 +3,10 @@ backend:
   repo: yuribmontez/solaland-test
   base_url: https://solaland-test.vercel.app
   auth_endpoint: api/auth/
-  # branch: main
+  branch: main
   # name: test-repo
 media_folder: "public/img/drops"
-# public_folder: "/img/drops"
+public_folder: "/img/drops"
 collections:
   - name: "drop"
     label: "Upcoming Drops"
