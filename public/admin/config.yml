@@ -1,7 +1,7 @@
 backend:
   name: github
-  repo: yuribmontez/solaland-test
-  base_url: https://solaland-test.vercel.app
+  repo: champozo/teste
+  base_url: https://teste-virid-alpha.vercel.app
   auth_endpoint: api/auth/
   branch: main
   # name: test-repo
