@@ -37,6 +37,7 @@ export default class MyDocument extends Document {
           <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Poppins:wght@500;600&display=swap" rel="stylesheet" />
 
           <link rel="shortcut icon" href="/img/logo.svg" type="image/png" />
+          <script src="https://identity.netlify.com/v1/netlify-identity-widget.js" />
         </Head>
         <body>
           <Main />
