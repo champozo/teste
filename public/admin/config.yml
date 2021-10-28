@@ -1,5 +1,5 @@
 backend:
-  name: https://github.com/yuribmontez
+  name: yuribmontez/solaland-test
   branch: main
   repo: yuribmontez/solaland-test
   base_url: https://solaland-test.vercel.app
