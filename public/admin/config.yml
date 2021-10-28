@@ -1,6 +1,8 @@
 backend:
   name: git-gateway
-  branch: master
+  branch: main
+  repo: yuribmontez/solaland-test
+  base_url: https://solaland-test.vercel.app
   # name: test-repo
 media_folder: "public/img/drops"
 public_folder: "/img/drops"
