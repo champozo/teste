@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@openlab/vercel-netlify-cms-github": "^1.1.1",
     "babel-plugin-styled-components": "^1.13.2",
     "hamburger-react": "^2.4.1",
     "next": "11.1.2",

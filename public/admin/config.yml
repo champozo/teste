@@ -1,8 +1,9 @@
 backend:
-  name: yuribmontez/solaland-test
-  branch: main
+  name: github
   repo: yuribmontez/solaland-test
   base_url: https://solaland-test.vercel.app
+  auth_endpoint: api/auth/
+  # branch: main
   # name: test-repo
 media_folder: "public/img/drops"
 public_folder: "/img/drops"
